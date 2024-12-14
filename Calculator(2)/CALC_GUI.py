@@ -9,7 +9,7 @@ def main():
     """General window frame"""
     window = Tk()
     window.title('Calculator Project')
-    window.geometry('390x600')
+    window.geometry('390x610')
     window.resizable(False, False)
 
     """input box"""
